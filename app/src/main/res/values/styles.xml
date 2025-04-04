@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+<style name="PriorityButton">
+    <item name="android:layout_width">0dp</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_weight">1</item>
+    <item name="android:background">@drawable/bg_priority_button</item>
+    <item name="android:textColor">@color/white</item>
+    <item name="android:drawablePadding">4dp</item>
+</style>
+</resources>
