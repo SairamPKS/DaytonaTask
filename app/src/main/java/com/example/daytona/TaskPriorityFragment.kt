@@ -6,6 +6,7 @@ import android.widget.Button
 import android.widget.GridLayout
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
+import com.example.daytona.R;
 import androidx.fragment.app.DialogFragment
 
 class TaskPriorityDialogFragment : DialogFragment() {
